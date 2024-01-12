@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <object data="files/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="files/cv.pdf">
+    <embed src="ardee-reyes.github.io/files/cv.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="files/cv.pdf">Download PDF</a>.</p>
     </embed>
 </object>
