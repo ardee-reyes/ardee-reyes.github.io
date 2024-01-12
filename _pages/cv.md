@@ -9,4 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-TODO: Have pdf pop up here
+<object data="files/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="files/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="files/cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
