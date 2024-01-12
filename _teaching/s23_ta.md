@@ -8,7 +8,7 @@ date: 2023-02-01
 location: "Cambridge, MA"
 ---
 
-Instructors: Profs. Zachary Abel, Brynmor Chapman, Anand Nataranjan and Vinod Vaikuntanathan
+Instructor(s): Profs. Zachary Abel, Brynmor Chapman, Anand Nataranjan and Vinod Vaikuntanathan
 
 Responsibilities
 ===

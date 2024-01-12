@@ -7,7 +7,7 @@ venue: "MIT, Mathematics"
 date: 2021-02-01
 location: "Cambridge, MA"
 ---
-Instructors: Profs. Michel Goemans and Diego Cifuentes
+Instructor(s): Profs. Michel Goemans and Diego Cifuentes
 
 Responsibilities
 ===

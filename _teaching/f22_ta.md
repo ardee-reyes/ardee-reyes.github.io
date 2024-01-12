@@ -8,7 +8,7 @@ date: 2022-09-01
 location: "Cambridge, MA"
 ---
 
-Instructors: Prof. Michael Sipser
+Instructor(s): Prof. Michael Sipser
 
 Responsibilities
 ===

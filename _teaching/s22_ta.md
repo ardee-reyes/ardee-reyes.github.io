@@ -8,7 +8,7 @@ date: 2022-02-01
 location: "Cambridge, MA"
 ---
 
-Instructors: Prof. Dor Minzer
+Instructor(s): Prof. Dor Minzer
 
 Responsibilities
 ===

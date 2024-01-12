@@ -8,7 +8,7 @@ date: 2020-09-01
 location: "Cambridge, MA"
 ---
 
-Instructors: Profs. Ankur Moitra and Pablo Parrilo
+Instructor(s): Profs. Ankur Moitra and Pablo Parrilo
 
 Responsibilities
 ===
