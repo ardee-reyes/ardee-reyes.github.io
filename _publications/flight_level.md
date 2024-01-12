@@ -2,7 +2,7 @@
 title: "Flight Level Assignment Using Graph Coloring"
 collection: publications
 permalink: /publication/flight_level
-excerpt: 'This paper models an air traffic optimization problem where, on the one hand, flight operators seek to minimize fuel consumption flying at optimal cruise levels and, on the other hand, air traffic managers aim to keep intersecting airways at as distant as possible flight levels'
+excerpt: ''
 date: 2020-09-01
 venue: 'applied sciences'
 paperurl: 'https://www.mdpi.com/2076-3417/10/18/6157'
