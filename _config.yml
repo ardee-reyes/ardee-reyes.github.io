@@ -11,10 +11,10 @@ title                    : "Rene D. Reyes"
 title_separator          : "-"
 name                     : &name "Rene D. Reyes"
 description              : &description "PhD Student at Boston University
-url                      : ardee-reyes.github.io"
+url                      : "ardee-reyes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ardee-reyes/ardee-reyes.github.io
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :   # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
