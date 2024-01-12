@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rene D. Reyes"
+title                    : "Rene's Personal Website"
 title_separator          : "-"
-name                     : &name "Rene's Personal Website'"
+name                     : &name "Rene David Reyes Bardales"
 description              : &description "Personal website for Rene David Reyes Bardales, a computer science PhD student at Boston University"
 url                      : "https://ardee-reyes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
