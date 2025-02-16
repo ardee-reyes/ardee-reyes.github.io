@@ -1,5 +1,5 @@
 ---
-title: "Evaluating efficacy of indoor non-pharmaceutical interventions against COVID-19 outbreaks with a coupled spatial-SIR agent-based simulation framework"
+title: "TRIP: Trust-Limited Coercion-Resistant In-Person Voter Registration"
 collection: publications
 permalink: /publication/cr_voting
 excerpt: ''
