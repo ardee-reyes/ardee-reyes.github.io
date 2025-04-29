@@ -6,6 +6,6 @@ collection: publications
 permalink: /publication/hypergraphs
 date: 2025-07-8
 venue: "ICALP (to appear)"
-link: "https://ardee-reyes.github.io/files/hypercycle_full.pdf"
+link: "https://arxiv.org/abs/2504.18640"
 
 ---
