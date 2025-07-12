@@ -1,6 +1,6 @@
 ---
-title: "TRIP: Trust-Limited Coercion-Resistant In-Person Voter Registration"
-authors: "Louis-Henri Merino, Simone Colombo, Rene Reyes, Alaleh Azhir, Haoqian Zhang, Jeff Allen, Bernhard Tellenbach, Vero Estrada-Galiñanes, and Bryan Ford"
+title: "Coercion-Resistant Registration for E-Voting with Verifiability and Usability in VSYS"
+authors: "Louis-Henri Merino, Simone Colombo, Rene Reyes, Alaleh Azhir, Shailesh Mishra, Pasindu Tennage, Mohammad Amin Raeisi, Haoqian Zhang, Jeff Allen, Bernhard Tellenbach, Vero Estrada-Galiñanes, and Bryan Ford"
 collection: publications
 permalink: /publication/cr_voting
 date: 2025-10-13
