@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at Boston University, where I am part of the [Security and Cryptography Group](https://www.bu.edu/cs/groups/busec/) and the [Theory Group](https://www.bu.edu/tcs/). I currently work with Profs. [Mayank Varia](https://www.mvaria.com/) and [Ran Canetti](https://scholar.google.com/citations?user=-PWcE1YAAAAJ&hl=en).
+I am a third-year PhD student at Boston University, where I am part of the [Security and Cryptography Group](https://www.bu.edu/cs/groups/busec/) and the [Theory Group](https://www.bu.edu/tcs/). I am advised by [Ran Canetti](https://scholar.google.com/citations?user=-PWcE1YAAAAJ&hl=en) and [Mayank Varia](https://www.mvaria.com/).
 
 I am broadly interested in Cryptography and Metacomplexity. Most of my current work falls into one of two main categories: 1.) Practically-motivated models for secure computation and 2.) Connections between various cryptographic primitives and metacomplexity problems. Prior to my PhD, my research was more applied; I spent a considerable amount of time thinking about coercion-resistant e-voting and federated learning over encrypted data. 
 

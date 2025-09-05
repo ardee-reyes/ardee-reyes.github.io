@@ -1,5 +1,5 @@
 ---
-title: "Coercion-Resistant Registration for E-Voting with Verifiability and Usability in VSYS"
+title: "TRIP: Coercion-resistant Registration for E-Voting with Verifability and Usability in Votegral"
 authors: "Louis-Henri Merino, Simone Colombo, Rene Reyes, Alaleh Azhir, Shailesh Mishra, Pasindu Tennage, Mohammad Amin Raeisi, Haoqian Zhang, Jeff Allen, Bernhard Tellenbach, Vero Estrada-Galiñanes, and Bryan Ford"
 collection: publications
 permalink: /publication/cr_voting
