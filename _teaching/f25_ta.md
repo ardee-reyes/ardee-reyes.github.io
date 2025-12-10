@@ -1,5 +1,5 @@
 ---
-title: "CS635: Graduate Algorithms"
+title: "CS630: Graduate Algorithms"
 collection: teaching
 type: "TF"
 permalink: /teaching/f25_ta
